@@ -1,8 +1,8 @@
-date_utc,vehicle,delta_v_m_s,source_url,verified
-2024-11-08,Dragon,,https://www.nasa.gov/blogs/spacestation/2024/11/08/dragon-spacecraft-boosts-station-for-first-time/,yes
+date_utc,vehicle,delta_v(m/s),source_url,verified
+2024-11-08,Dragon,0.35,https://www.nasa.gov/blogs/spacestation/2024/11/08/dragon-spacecraft-boosts-station-for-first-time/,yes
 2025-09-03,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/09/03/nasa-spacex-complete-dragon-space-station-reboost/,yes
 2025-11-19,Progress 93,,https://www.nasa.gov/image-detail/amf-iss073e1128946,yes
-2025-12-29,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
+2025-12-29,Dragon CRS-33,1.59,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
 2026-01-23,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2026/02/26/cargo-filled-dragon-departs-station-soon-on-nasa/,yes
 2026-04-16,Progress 93,,https://www.nasa.gov/blogs/spacestation/2026/04/16/station-orbits-higher-as-crew-runs-new-science-experiments/,yes
 2025-09-26,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
