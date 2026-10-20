@@ -9,6 +9,7 @@ Outputs: reboost_comparison.csv and reboost_comparison.md (a table for the READM
 """
 import csv
 import json
+import statistics
 from datetime import datetime
 from pathlib import Path
 
@@ -162,7 +163,7 @@ def main():
     print(f"Detected candidates: {len(det)}  (confirmed by the reference list: {len(det_to_ref)}, "
           f"not in the list: {len(det) - len(det_to_ref)})")
     if lags:
-        print(f"Detected epoch minus reference date: median {lags[len(lags) // 2]:+.2f} days "
+        print(f"Detected epoch minus reference date: median {statistic.median(lags)]:+.2f} days "
               f"(min {lags[0]:+.2f}, max {lags[-1]:+.2f})")
     print("Note: the reference list is hand-made and incomplete, so 'not in the list' does NOT mean false positive.")
     print(f"\n[OK] Saved: {OUT_CSV.name}, {OUT_MD.name}")
