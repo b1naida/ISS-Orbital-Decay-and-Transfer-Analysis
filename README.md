@@ -109,7 +109,7 @@ A separate plane-change burn at GEO speed (about 3.07 km/s) would cost `2 v sin(
 - TLE mean elements are approximate; altitudes use a spherical Earth of equatorial radius, so they are mean orbital altitudes rather than true altitudes above the surface.
 - The outlier and reboost thresholds (0.5 km and 0.3 km) were chosen by inspection of the data, not derived from a noise model.
 - Only upward steps are searched for, so any other kind of orbit change is not examined. Reboost dates are only as precise as the TLE sampling.
-- The reference list is hand-made, incomplete, mixes official and news sources, and its dates are not yet verified, so the recall and delay figures are only as reliable as that list. Publicly reported burns may also be larger than average, which would make recall look better than it would be on all burns.
+- The reference list is hand-made and incomplete, so the recall and delay figures are only as reliable as that list. Publicly reported burns may also be larger than average, which would make recall look better than it would be on all burns.
 - The decay rate varies from segment to segment (it depends on atmospheric density and solar activity). I report only the median and have not yet related it to solar activity data.
 - The Hohmann calculation assumes impulsive burns, a two-body model (no J2, no third-body effects), and a start from the ISS orbit as a teaching scenario. It is not a mission design.
 
