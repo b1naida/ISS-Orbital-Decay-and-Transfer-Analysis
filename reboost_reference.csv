@@ -1,10 +1,10 @@
 date_utc,vehicle,delta_v_m_s,source_url,verified
-2024-11-08,Dragon,,https://www.space.com/space-exploration/international-space-station/spacex-dragon-spacecraft-will-raise-iss-orbit-tomorrow-in-1st-ever-reboost,no
-2025-09-03,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/09/03/nasa-spacex-complete-dragon-space-station-reboost/,no
-2025-11-19,Progress 93,,https://www.nasa.gov/image-detail/amf-iss073e1128946,no
-2025-12-29,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,no
-2026-01-23,Dragon CRS-33,,https://newspaceeconomy.ca/2026/05/07/how-iss-reboosts-raise-orbit-and-affect-station-structure/,no
+2024-11-08,Dragon,,https://www.space.com/space-exploration/international-space-station/spacex-dragon-spacecraft-will-raise-iss-orbit-tomorrow-in-1st-ever-reboost,yes
+2025-09-03,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/09/03/nasa-spacex-complete-dragon-space-station-reboost/,yes
+2025-11-19,Progress 93,,https://www.nasa.gov/image-detail/amf-iss073e1128946,yes
+2025-12-29,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
+2026-01-23,Dragon CRS-33,,https://newspaceeconomy.ca/2026/05/07/how-iss-reboosts-raise-orbit-and-affect-station-structure/,yes
 2026-04-16,Progress 93,,https://newspaceeconomy.ca/2026/05/07/how-iss-reboosts-raise-orbit-and-affect-station-structure/,no
-2025-09-26,Dragon CRS-33,,https://isstracker.pl/en/news/nasa-spacex-crs-33-dragon-napedza-stacje-kosmiczna%2C53YsY,no
-2025-10-14,Dragon CRS-33,,https://isstracker.pl/en/news/nasa-spacex-crs-33-dragon-napedza-stacje-kosmiczna%2C53YsY,no
-2025-11-07,Dragon CRS-33,,https://isstracker.pl/en/news/nasa-spacex-crs-33-dragon-napedza-stacje-kosmiczna%2C53YsY,no
+2025-09-26,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
+2025-10-14,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
+2025-11-07,Dragon CRS-33,,https://www.nasa.gov/blogs/spacestation/2025/12/29/spacex-dragon-boosts-stations-orbit/,yes
