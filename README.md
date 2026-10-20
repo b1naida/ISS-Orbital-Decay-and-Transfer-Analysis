@@ -79,7 +79,7 @@ The detector above only uses the TLE data itself, so I also checked it against a
 | EXTRA (candidates not in the list) | 17 |
 | OUT_OF_RANGE | 0 |
 | Recall (MATCH / listed burns inside the period) | 9 / 10 = 90 % |
-| Mean delay between the burn date and the first TLE showing the new orbit | 1.20 days (range 0.79 to 1.82) |
+| Mean delay between the burn date and the first TLE showing the new orbit | 1.15 days (range 0.79 to 1.82) |
 
 The delay is measured from midnight UTC of the listed date, because only dates were recorded; every matched candidate came after the listed burn. The one missed burn is the Dragon reboost of 2024-11-08; the nearest candidate is about six days later (2024-11-14), so it is probably a different burn.
 The full per-burn table is in `reboost_comparison.md`. An `EXTRA` candidate is only a false detection if the reference list is complete for the period; a list built from public announcements may miss real burns, so I read `EXTRA` as "not in the list", not as an error rate.
